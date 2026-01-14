@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sokolovskyy.com.ua/sitemap.xml
